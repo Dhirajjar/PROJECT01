@@ -2,4 +2,4 @@
 This is my first project
 <br>
 Author ie here.  
-chhotu beta ke khani
+chhotu dada ke khani
