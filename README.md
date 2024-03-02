@@ -1,5 +1,5 @@
 # PROJECT01
 This is my first project
 <br>
-Author ie here.  
+Author is here.  
 chhotu dada ke khani
